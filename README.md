@@ -70,12 +70,13 @@
 </br>
 </br>
 
-
-
+<h1>Statistics:</h1>
 <div align="center">
     <a href="https://github.com/viniciusNoleto">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" width="200em" src="https://user-images.githubusercontent.com/85528669/173173706-b31908e4-d779-4705-a777-4cf6657a5212.gif"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusNoleto&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="160em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+      <img height="160em" src="https://user-images.githubusercontent.com/85528669/173173706-b31908e4-d779-4705-a777-4cf6657a5212.gif"/>
+    <a href="https://github.com/viniciusNoleto">
+      <img height="160em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusNoleto&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </div>
