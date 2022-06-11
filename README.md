@@ -1,50 +1,25 @@
 
 
-<h1> <img src="https://user-images.githubusercontent.com/85528669/173165421-25f4b501-b748-4711-82b6-6f995031dca4.gif"> Hello <s>World</s> <s>(Humans?)</s> Devs!! 👋🏽</h1>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/85528669/173161955-392c6cc6-c5f3-4645-9298-17eefd44f433.gif" alt="alien-gif-hello" width="600px" height="300px">
+<div>
+<i>
+    <h1><img src="https://user-images.githubusercontent.com/85528669/173167127-481cdef6-d413-4d85-8bb2-562a50be9865.gif" alt="cat-programming-gif" width="30px" height="30px"> Sup Devs!? 👋🏽 I'm Vinícius Nolêto<img src="https://user-images.githubusercontent.com/85528669/173166891-7b6bbc0b-27f8-42fe-9162-787618231fc0.gif" alt="woody_woodpecker-gif-hello" width="400px" height="200px" align="right">
+    </h1>
+    <h3><img src="https://user-images.githubusercontent.com/85528669/173168357-24045914-100c-4cac-bb76-1c709a3e1b7e.gif" alt="mario-dancing" width="30px" height="30px"> Aboute Me:</h3>
+    <div>
+        <p>🏳️‍🌈 <b>Pronouns:</b> He / him;</p>
+        <p><img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, RR, Boa Vista;</p>
+        <p>📚 <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
+        <p><img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink with my friends <s>(anything that certly will decrease my lifetime 🤫)</s><br> and play some video-games;</p>
+        <p>🎮 <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
+    </div>
+</i>
 </div>
 
 <br>
 
-My name is Vinícius Nolêto de Araújo, I’m from Brazil, Roraima, ...
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
-
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/85528669/173163739-2b72444f-c7cf-4965-b7b1-2db4d536adc1.gif">
-<p>AAA</p>
-<p>AAA</p>
-<p>AAA</p>
-<p>AAA</p>
-<p>AAA</p>
-<p>AAA</p>
-
-
-</br>
-</br>
-<div display="inline-block">
- <p align="left">🤿 ... </p>
- <p align="left">📚 ... </p>
- <p align="left">📷 ... </p>
- <p align="left">☕🎮 ... </p>
+<div align="center">
+    <a href="https://github.com/viniciusNoleto">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusNoleto&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </div>
-
-
-
-</br>
-
-📫 ...
-
-</br>
-
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jeniblo_dev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
-
