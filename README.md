@@ -16,13 +16,13 @@
     <h3>Contacts:</h3>
     <div>
         <div>
-            <a href="" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="viniciusNoleto's Discord"/></a>
-            <a href="" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viniciusNoleto's Instagram"/></a>
+            <a href="https://discord.gg/3DHRjHAA" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="viniciusNoleto's Discord"/></a>
+            <a href="https://www.instagram.com/noletovini/" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viniciusNoleto's Instagram"/></a>
             <a href="" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusNoleto's LinkedIn"/></a>
         </div>
         <div>
             </p>
-            <a href="mailto: noleto.vinicius.a@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="viniciusNoleto's LinkedIn"/></a> noleto.vinicius.a@gmail.com</p>
+            <a href="mailto: noleto.vinicius.a@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="viniciusNoleto's LinkedIn"/></a> <b>noleto.vinicius.a@gmail.com</p>
         </div>
     </div>
     <br>
@@ -75,7 +75,7 @@
     <a href="https://github.com/viniciusNoleto">
       <img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
-      <img height="135em" src="https://user-images.githubusercontent.com/85528669/173173706-b31908e4-d779-4705-a777-4cf6657a5212.gif"/>
+      <img height="135em" align="top" src="https://user-images.githubusercontent.com/85528669/173173706-b31908e4-d779-4705-a777-4cf6657a5212.gif"/>
     <a href="https://github.com/viniciusNoleto">
       <img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusNoleto&layout=compact&langs_count=8&theme=algolia"/>
     </a>
