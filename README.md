@@ -13,7 +13,7 @@
         - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"> <b>Currently Listen:</b> Best-Podcast: <a href="https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d">PeeWeeCast</a> | Best-Album: <a href="https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g">Intocável - Borges</a>;</p>
         - 🎮 <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
     </div>
-    <h3>Contacts:</h3>
+    <h3>📫 Contacts:</h3>
     <div>
         <div>
             <a href="https://discord.gg/3DHRjHAA" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="viniciusNoleto's Discord"/></a>
@@ -52,10 +52,11 @@
     </div><br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="bottom"> Main Works: </i>📃<i></h2>
     <div>
-        <h3>Space Engineer: (finished)</h3>
+        <h3>Space Engineer (finished):</h3>
         <div>
             <p>Short game inspired by old school 16 bits space games <br> and Tetris (the first game I made, btw)</p>
-            <img src="https://user-images.githubusercontent.com/85528669/173174245-732019ad-e5da-4e97-b05c-91e4df1541c5.png" width="600px">
+            <img src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif" width="600px">
+            <img src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif" width="600px">
             <h6>Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project</h6>
         </div>
         <h3>Compreendendo Circuitos Digitais (working on now):</h3>
@@ -70,7 +71,7 @@
 </br>
 </br>
 
-<h1>Statistics:</h1>
+<h1><img src="https://user-images.githubusercontent.com/85528669/173398383-ad73c2a9-ad89-413e-a69b-1371d928af0f.gif" alt="mario-dancing" width="30px" height="30px" align="bottom"> Statistics:</h1>
 <div align="center">
     <a href="https://github.com/viniciusNoleto">
       <img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
