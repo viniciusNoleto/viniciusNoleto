@@ -9,7 +9,7 @@
         - 🏳️‍🌈 <b>Pronouns:</b> He / him;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, RR, Boa Vista;</p>
         - 📚 <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
-        - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink with my friends, play some video-games and listen podcast all the time;</p>
+        - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Hang out with my friends, drink coca-cola and ride a bike listening podcast;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"> <b>Currently Listen:</b> Best-Podcast: <a href="https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d">PeeWeeCast</a> | Best-Album: <a href="https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g">Intocável - Borges</a>;</p>
         - 🎮 <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
     </div>
@@ -42,7 +42,6 @@
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"> <br>
             <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="70px" height="28px" alt="C++">
             <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-            <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO">
         </div>
         <h3></i>💾<i> Studied Long-time Ago:</h3>
         <div>
