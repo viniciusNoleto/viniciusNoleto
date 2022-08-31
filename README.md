@@ -28,7 +28,7 @@
     <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="bottom"> Knowledge:</h2>
     <div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/187801982-447f2222-75eb-45df-a266-aa6a13f2b6e7.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Working With:</h3>
+        <h3><img src="https://user-images.githubusercontent.com/85528669/187804661-f1038fd6-0c08-4509-9d60-7ca0bf19b757.gif" alt="programming-man" width="25px" height="25px" align="top"> Working With:</h3>
         <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CCS3">
