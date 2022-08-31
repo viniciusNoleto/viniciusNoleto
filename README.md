@@ -26,9 +26,9 @@
         </div>
     </div>
     <br>
-    <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="bottom"> Knowledge:</h2>
+    <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"> Knowledge</h2>
     <div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/187804661-f1038fd6-0c08-4509-9d60-7ca0bf19b757.gif" alt="programming-man" width="25px" height="25px" align="top"> Working With:</h3>
+        <h3><img src="https://user-images.githubusercontent.com/85528669/187804661-f1038fd6-0c08-4509-9d60-7ca0bf19b757.gif" alt="programming-man" width="45px" height="45px" align="center"> Working With:</h3>
         <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CCS3">
@@ -52,7 +52,7 @@
             <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
         </div>
     </div><br>
-    <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="bottom"> Main Works:</h2>
+    <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"> Main Works</h2>
     <div>
         <h3>Space Engineer (finished):</h3>
         <div>
@@ -73,7 +73,7 @@
 </br>
 </br>
 
-<h1><img src="https://user-images.githubusercontent.com/85528669/173398383-ad73c2a9-ad89-413e-a69b-1371d928af0f.gif" alt="mario-dancing" width="30px" height="30px" align="bottom"> Statistics:</h1>
+<h1><img src="https://user-images.githubusercontent.com/85528669/173398383-ad73c2a9-ad89-413e-a69b-1371d928af0f.gif" alt="mario-dancing" width="30px" height="30px" align="bottom"> Statistics</h1>
 <div align="center">
     <a href="https://github.com/viniciusNoleto">
       <img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
