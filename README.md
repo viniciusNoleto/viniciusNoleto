@@ -42,7 +42,7 @@
             <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="98px" height="28px" alt="Docker">
         </div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/173203382-7b6c335e-819a-490b-bad5-0dd4d5c17131.gif" alt="programming-man" width="20px" height="30px" align="bottom"> Next Studies:</h3>
+        <h3><img src="https://user-images.githubusercontent.com/85528669/173203382-7b6c335e-819a-490b-bad5-0dd4d5c17131.gif" alt="programming-man" width="20px" height="30px" align="center"> Next Studies:</h3>
         <div>
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
