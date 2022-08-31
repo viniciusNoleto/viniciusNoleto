@@ -26,9 +26,9 @@
         </div>
     </div>
     <br>
-    <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="bottom"> Knowledge: </i>👨🏽‍💻<i></h2>
+    <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="bottom"> Knowledge:</h2>
     <div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/173173794-361d59ef-9a9e-4764-a38b-3ba61ddca91e.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Studying:</h3>
+        <h3><img src="https://user-images.githubusercontent.com/85528669/187801982-447f2222-75eb-45df-a266-aa6a13f2b6e7.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Working With:</h3>
         <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CCS3">
@@ -36,20 +36,23 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
             <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         </div>
+        <h3><img src="https://user-images.githubusercontent.com/85528669/173173794-361d59ef-9a9e-4764-a38b-3ba61ddca91e.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Studying:</h3>
+        <div>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+            <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="98px" height="28px" alt="Docker">
+        </div>
         <h3><img src="https://user-images.githubusercontent.com/85528669/173203382-7b6c335e-819a-490b-bad5-0dd4d5c17131.gif" alt="programming-man" width="20px" height="30px" align="bottom"> Next Studies:</h3>
         <div>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"> <br>
-            <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" width="100px" height="28px" alt="GraphQL">
-            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="98px" height="28px" alt="Docker">
         </div>
         <h3></i>💾<i> Studied Long-time Ago:</h3>
         <div>
-            <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA">
             <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
         </div>
     </div><br>
-    <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="bottom"> Main Works: </i>📃<i></h2>
+    <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="bottom"> Main Works:</h2>
     <div>
         <h3>Space Engineer (finished):</h3>
         <div>
