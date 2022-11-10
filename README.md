@@ -9,7 +9,7 @@
         - 🏳️‍🌈 <b>Pronouns:</b> He / him;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, RR, Boa Vista;</p>
         - 📚 <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
-        - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Hang out with my friends, drink coca-cola and ride a bike listening podcast;</p>
+        - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink Coca-Cola and listen podcast;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"> <b>Currently Listen:</b> Best-Podcast: <a href="https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d">PeeWeeCast</a> | Best-Album: <a href="https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g">Intocável - Borges</a>;</p>
         - 🎮 <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
         - 🌱 <b>Actual Job:</b> Head of Document Analysis and Correction Division in ITERAIMA (Institute of Land and Colonization of Roraima);</p>
@@ -55,18 +55,21 @@
     </div><br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"> Main Projects</h2>
     <div>
-        <h3>Space Engineer (finished):</h3>
+        <h3><a href="https://tic80.com/play?cart=1911" target="blank">Space Engineer</a> (finished):</h3>
         <div>
             <p>Short game inspired by old school 16 bits space games <br> and Tetris (the first game I made, btw)</p>
-            <img src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif" width="600px">
-            <img src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif" width="600px">
-            <h6>Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project</h6>
+            <img height="220em" width="500em" src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif" width="600px">
+            <img height="220em" width="500em" src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif" width="600px">
+            <h5>In this game you have 5 space-ships you can use (green, blue, red, yellow and purple) and each type has your own powers. Each space-ship is useful for different moments in the game and you can change it any moment. To win (or just don't die) you need to bring all blocks that cames from the right side of the screen to their flagged places at the left side of the screen. It's a funny game with dialogues in PT-BR and has no HUD, so your "life" is how stressed your boss are, so if you pissed him off you will get fired!</h5>
+            <h6>Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project.</h6>
         </div>
         <h3>Compreendendo Circuitos Digitais (finished):</h3>
         <div>
-            <p>A site I am developed for the WebDev course in my college called "Understanding Digital Circuits"</p>
-            <h5>When I made this project I was learning PHP, JS, CSS and HTML, so had some details that I would improve if made this with my actual knowledge</h5>
-            <img src="https://user-images.githubusercontent.com/85528669/201172195-c2a0ef5d-43ca-4e61-a680-7a39c70db69b.png">
+            <p>A site I developed for the WebDev course in my college called "Understanding Digital Circuits".</p>
+            <img height="750em" width="475em" src="https://user-images.githubusercontent.com/85528669/201172195-c2a0ef5d-43ca-4e61-a680-7a39c70db69b.png">
+            <img height="750em" width="475em" src="https://user-images.githubusercontent.com/85528669/201172227-f2f6a0ac-44bb-4bb6-b1a5-84f9116d4446.png">
+            <h5>It's an educational site about the course "Digital Circuits" (that's a course I use to like when I studied about) with gamification features. There's 3 levels with at least 5 exercises that the player answer in a pseudo-random order about logic ports and their connections.</h5>
+            <h6>Obs: When I made this project I was just learning HTML, CSS, JS, SQL and PHP, so It had some details that I would improve if I made this with my actual knowledge</h6>
         </div>
     </div>
 </i>
