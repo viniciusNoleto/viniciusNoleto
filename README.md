@@ -73,7 +73,7 @@
         </div>
         <h3>🗺️ SIRGA - ITERAIMA (working on):</h3>
         <div>
-            <p>A patented Web System I'm working on for the Roraima Government Institute ITERAIMA, where I work, that use PHP to store documents information in MySql database.</p>
+            <p>A patented Web System I'm working on for the Roraima Government Institute ITERAIMA, where I work, that uses PHP to store documents information in MySql database.</p>
             <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210661-9bae0441-2192-493d-a8cd-fecd6a909786.png">
             <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210615-8d29c96f-bd3b-4799-9cee-ddfa6abb2bc0.png">
             <h5>This System use just HTML, CSS, JS, PHP, SQL and Python without framework or any else addition because our network is almost full and I recive the instruction to develop the smallest (but efficient) system possible. The SIRGA system has 4 main features: Create, Modify, Consult and Download documents. Consult feature can generate simple and complex reports from a specific search (ex: all documents emitted in october 2022) and has links for Download each one of them. Create and Modify store just the variants documents informations, keeping default information to Download feature. Finally the Download feature use Python with python-docx and openpyxl libraries, putting a specific database information in the document just when the user require it (and delete it after a while), taking less space in network memory this way.</h5>
