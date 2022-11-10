@@ -11,8 +11,8 @@
         - 📚 <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink Coca-Cola and listen podcast;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"> <b>Currently Listen:</b> Best-Podcast: <a href="https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d">PeeWeeCast</a> | Best-Album: <a href="https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g">Intocável - Borges</a>;</p>
-        - 🎮 <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
-        - 🌱 <b>Actual Job:</b> Head of Document Analysis and Correction Division in ITERAIMA (Institute of Land and Colonization of Roraima);</p>
+        - 🎮 <b>Recently Playing:</b> ⚡ <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
+        - 💻 <b>Actual Job:</b> Head of Document Analysis and Correction Division in ITERAIMA (Institute of Land and Colonization of Roraima);</p>
     </div>
     <h3>📫 Contacts:</h3>
     <div>
@@ -37,6 +37,7 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
             <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <br>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+            <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
         </div>
         <h3><img src="https://user-images.githubusercontent.com/85528669/173173794-361d59ef-9a9e-4764-a38b-3ba61ddca91e.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Studying:</h3>
         <div>
@@ -57,19 +58,26 @@
     <div>
         <h3><a href="https://tic80.com/play?cart=1911" target="blank">Space Engineer</a> (finished):</h3>
         <div>
-            <p>Short game inspired by old school 16 bits space games <br> and Tetris (the first game I made, btw)</p>
-            <img height="220em" width="500em" src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif" width="600px">
-            <img height="220em" width="500em" src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif" width="600px">
+            <p>Short game inspired by old school 16 bits space games and Tetris (the first game I made, btw)</p>
+            <img height="220em" width="600em" src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif">
+            <img height="220em" width="600em" src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif">
             <h5>In this game you have 5 space-ships you can use (green, blue, red, yellow and purple) and each type has your own powers. Each space-ship is useful for different moments in the game and you can change it any moment. To win (or just don't die) you need to bring all blocks that cames from the right side of the screen to their flagged places at the left side of the screen. It's a funny game with dialogues in PT-BR and has no HUD, so your "life" is how stressed your boss are, so if you pissed him off you will get fired!</h5>
             <h6>Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project.</h6>
         </div>
         <h3>Compreendendo Circuitos Digitais (finished):</h3>
         <div>
             <p>A site I developed for the WebDev course in my college called "Understanding Digital Circuits".</p>
-            <img height="750em" width="475em" src="https://user-images.githubusercontent.com/85528669/201172195-c2a0ef5d-43ca-4e61-a680-7a39c70db69b.png">
-            <img height="750em" width="475em" src="https://user-images.githubusercontent.com/85528669/201172227-f2f6a0ac-44bb-4bb6-b1a5-84f9116d4446.png">
+            <img height="500em" src="https://user-images.githubusercontent.com/85528669/201172983-9b99c66a-62a9-4def-82d0-d47bef0f0e6b.png">
             <h5>It's an educational site about the course "Digital Circuits" (that's a course I use to like when I studied about) with gamification features. There's 3 levels with at least 5 exercises that the player answer in a pseudo-random order about logic ports and their connections.</h5>
             <h6>Obs: When I made this project I was just learning HTML, CSS, JS, SQL and PHP, so It had some details that I would improve if I made this with my actual knowledge</h6>
+        </div>
+        <h3>🗺️ SIRGA - ITERAIMA (working on):</h3>
+        <div>
+            <p>A patented Web System I'm working on for the Roraima Government Institute ITERAIMA, where I work, that use PHP to store documents information in MySql database.</p>
+            <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210661-9bae0441-2192-493d-a8cd-fecd6a909786.png">
+            <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210615-8d29c96f-bd3b-4799-9cee-ddfa6abb2bc0.png">
+            <h5>This System use just HTML, CSS, JS, PHP, SQL and Python without framework or any else addition because our network is almost full and I recive the instruction to develop the smallest (but efficient) system possible. The SIRGA system has 4 main features: Create, Modify, Consult and Download documents. Consult feature can generate simple and complex reports from a specific search (ex: all documents emitted in october 2022) and has links for Download each one of them. Create and Modify store just the variants documents informations, keeping default information to Download feature. Finally the Download feature use Python with python-docx and openpyxl libraries, putting a specific database information in the document just when the user require it (and delete it after a while), taking less space in network memory this way.</h5>
+            <h6>Obs: When the Institute improve his network I will probably use some additions(like a framework) to make SIRGA more efficient.</h6>
         </div>
     </div>
 </i>
