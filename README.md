@@ -6,15 +6,19 @@
     </h1>
     <h3><img src="https://user-images.githubusercontent.com/85528669/173168357-24045914-100c-4cac-bb76-1c709a3e1b7e.gif" alt="mario-dancing" width="30px" height="30px"> Aboute Me:</h3>
     <div>
-        - 🏳️‍🌈 <b>Pronouns:</b> He / him;</p>
+        - </i>🏳️‍🌈<i><b>Pronouns:</b> He / him;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, RR, Boa Vista;</p>
-        - 📚 <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
+        - </i>📚<i> <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink Coca-Cola and listen podcast;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"> <b>Currently Listen:</b> Best-Podcast: <a href="https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d">PeeWeeCast</a> | Best-Album: <a href="https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g">Intocável - Borges</a>;</p>
-        - 🎮 <b>Recently Playing:</b> ⚡ <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
-        - 💻 <b>Actual Job:</b> Head of Document Analysis and Correction Division in ITERAIMA (Institute of Land and Colonization of Roraima);</p>
+        - </i>🎮<i> <b>Recently Playing:</b> <a href="https://store.steampowered.com/app/588650/Dead_Cells">Dead Cells</a> <img src="https://user-images.githubusercontent.com/85528669/173170374-0cccd986-96d8-42e7-8ea3-42b5a6742116.gif" alt="dead-cells-gif" width="30px" height="30px" align="bottom">;</p>
     </div>
-    <h3>📫 Contacts:</h3>
+    <h3></i>💻<i> Job History:</h3>
+    <div>
+        - <b>Institute of Land and Colonization of Roraima (ITERAIMA)</b>: Head of Document Analysis and Correction Division; <b></i>[Actual Job]<i></b></p>
+        - <b>Federal University of Roraima (UFRR)</b>: Urban Mobility Researcher; <b></i>[Researching Now]<i></b></p>
+    </div>
+    <h3></i>📫<i> Contacts:</h3>
     <div>
         <div>
             <a href="https://discord.gg/EZecnWDnR8" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="viniciusNoleto's Discord"/></a>
@@ -43,6 +47,7 @@
         <div>
             <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="98px" height="28px" alt="Docker">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         </div>
         <h3><img src="https://user-images.githubusercontent.com/85528669/173203382-7b6c335e-819a-490b-bad5-0dd4d5c17131.gif" alt="programming-man" width="20px" height="30px" align="center"> Next Studies:</h3>
         <div>
@@ -74,10 +79,10 @@
         <h3>🗺️ SIRGA - ITERAIMA (working on):</h3>
         <div>
             <p>A patented Web System I'm working on for the Roraima Government Institute ITERAIMA, where I work, that uses PHP to store documents information in MySql database.</p>
-            <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210661-9bae0441-2192-493d-a8cd-fecd6a909786.png">
-            <img height="280em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210615-8d29c96f-bd3b-4799-9cee-ddfa6abb2bc0.png">
+            <img height="250em" width="460em" src="https://user-images.githubusercontent.com/85528669/201210661-9bae0441-2192-493d-a8cd-fecd6a909786.png">
+            <img height="250em" width="460em" src="https://user-images.githubusercontent.com/85528669/201210615-8d29c96f-bd3b-4799-9cee-ddfa6abb2bc0.png">
             <h5>This System use just HTML, CSS, JS, PHP, SQL and Python without framework or any else addition because our network is almost full and I recive the instruction to develop the smallest (but efficient) system possible. The SIRGA system has 4 main features: Create, Modify, Consult and Download documents. Consult feature can generate simple and complex reports from a specific search (ex: all documents emitted in october 2022) and has links for Download each one of them. Create and Modify store just the variants documents informations, keeping default information to Download feature. Finally the Download feature use Python with python-docx and openpyxl libraries, putting a specific database information in the document just when the user require it (and delete it after a while), taking less space in network memory this way.</h5>
-            <h6>Obs: When the Institute improve his network I will probably use some additions(like a framework) to make SIRGA more efficient.</h6>
+            <h6>Obs: When the Institute improve his network I will probably use some additions(like maybe use Laravel or some framework) to make SIRGA more efficient.</h6>
         </div>
     </div>
 </i>
