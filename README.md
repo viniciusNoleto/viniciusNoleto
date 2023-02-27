@@ -33,34 +33,10 @@
     <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"> Knowledge</h2>
     <div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/187804661-f1038fd6-0c08-4509-9d60-7ca0bf19b757.gif" alt="programming-man" width="45px" height="45px" align="center"> Working With:</h3>
         <div>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CCS3">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <br>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <br>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-            <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+            <img src="https://user-images.githubusercontent.com/85528669/221685060-9e786bb8-3e47-4d20-9085-7ea80e68b6cd.png" alt="Study Tree">
         </div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/173173794-361d59ef-9a9e-4764-a38b-3ba61ddca91e.gif" alt="programming-man" width="25px" height="25px" align="top"> Currently Studying:</h3>
-        <div>
-            <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="98px" height="28px" alt="Docker">
-            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> <br>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        </div>
-        <h3><img src="https://user-images.githubusercontent.com/85528669/173203382-7b6c335e-819a-490b-bad5-0dd4d5c17131.gif" alt="programming-man" width="20px" height="30px" align="center"> Next Studies:</h3>
-        <div>
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <br>
-            <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
-        </div>
-        <h3></i>💾<i> Studied Long-time Ago:</h3>
-        <div>
-            <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-        </div>
-    </div><br>
+    <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"> Main Projects</h2>
     <div>
         <h3><a href="https://tic80.com/play?cart=1911" target="blank">Space Engineer</a> <a href="https://github.com/viniciusNoleto/Space-Engeneer-Tic-80-JS" target="blank">(finished)</a>:</h3>
