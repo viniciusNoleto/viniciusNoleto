@@ -33,8 +33,12 @@
     <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"> Knowledge</h2>
     <div>
+        <img src="https://user-images.githubusercontent.com/85528669/223745734-c0aadd6e-93ae-454d-8643-5c147a794313.png" alt="Mark" height="20px" width="20px" align="center"> - <b>Low Skill</b><br>
+        <img src="https://user-images.githubusercontent.com/85528669/223745761-add848c3-470a-4755-ad45-b91e2bc38289.png" alt="Mark" height="20px" width="20px" align="center"> - <b>Medium Skill</b><br>
+        <img src="https://user-images.githubusercontent.com/85528669/223745715-6f11d646-0502-405f-8018-1e8e21932a76.png" alt="Mark" height="20px" width="20px" align="center"> - <b>High Skill</b><br>
+        <img src="https://user-images.githubusercontent.com/85528669/223745753-feef04bc-2ccd-4949-9f4b-83701c557233.png" alt="Mark" height="20px" width="20px" align="center"> - <b>Studying Now</b><br>
         <div>
-            <img src="https://user-images.githubusercontent.com/85528669/223741601-7fa37a8c-c32d-4de9-9483-bdfdcb61c9af.png" alt="Study Tree">
+            <img src="https://user-images.githubusercontent.com/85528669/223741601-7fa37a8c-c32d-4de9-9483-bdfdcb61c9af.png" alt="Study Tree" height="448px" width="400px">
         </div>
     <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"> Main Projects</h2>
