@@ -34,7 +34,7 @@
     <h2><img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"> Knowledge</h2>
     <div>
         <div>
-            <img src="https://user-images.githubusercontent.com/85528669/221697725-c554dd0a-b7de-4b3b-84b4-22c28f849b6c.png" alt="Study Tree">
+            <img src="https://user-images.githubusercontent.com/85528669/223741601-7fa37a8c-c32d-4de9-9483-bdfdcb61c9af.png" alt="Study Tree">
         </div>
     <br>
     <h2><img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"> Main Projects</h2>
