@@ -6,7 +6,6 @@
     </h1>
     <h3><img src="https://user-images.githubusercontent.com/85528669/173168357-24045914-100c-4cac-bb76-1c709a3e1b7e.gif" alt="mario-dancing" width="30px" height="30px"> Aboute Me:</h3>
     <div>
-        - </i>🏳️‍🌈<i><b>Pronouns:</b> He / him;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, RR, Boa Vista;</p>
         - </i>📚<i> <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
         - <img src="https://user-images.githubusercontent.com/85528669/173169820-b61fdf82-0b43-499a-800c-3eb5ffe6182b.gif" alt="beers" width="20px" height="20px" align="center"> <b>I Like to:</b> Drink Coca-Cola and listen podcast;</p>
