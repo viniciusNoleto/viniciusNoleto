@@ -49,20 +49,6 @@
             <h5>In this game you have 5 space-ships you can use (green, blue, red, yellow and purple) and each type has your own powers. Each space-ship is useful for different moments in the game and you can change it any moment. To win (or just don't die) you need to bring all blocks that cames from the right side of the screen to their flagged places at the left side of the screen. It's a funny game with dialogues in PT-BR and has no HUD, so your "life" is how stressed your boss are, so if you pissed him off you will get fired!</h5>
             <h6>Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project.</h6>
         </div>
-        <h3>Compreendendo Circuitos Digitais <a href="https://github.com/viniciusNoleto/WebDev-DCC916A-CompreendendoCircuitosDigitais" target="blank">(finished)</a>:</h3>
-        <div>
-            <p>A site I developed for the WebDev course in my college called "Understanding Digital Circuits".</p>
-            <img height="500em" src="https://user-images.githubusercontent.com/85528669/201172983-9b99c66a-62a9-4def-82d0-d47bef0f0e6b.png">
-            <h5>It's an educational site about the course "Digital Circuits" (that's a course I use to like when I studied about) with gamification features. There's 3 levels with at least 5 exercises that the player answer in a pseudo-random order about logic ports and their connections.</h5>
-            <h6>Obs: When I made this project I was just learning HTML, CSS, JS, SQL and PHP, so It had some details that I would improve if I made this with my actual knowledge</h6>
-        </div>
-        <h3>🗺️ SIRGA - ITERAIMA <a href="https://github.com/viniciusNoleto/SIRGA-ITERAIMA_presentation-rep-no-code" target="blank">(working on)</a>:</h3>
-        <div>
-            <p>A patented Web System I'm working on for the Roraima Government Institute ITERAIMA, where I work, that uses PHP to store documents information in MySql database.</p>
-            <img height="640em" width="480em" src="https://user-images.githubusercontent.com/85528669/202296848-1e751e52-c86b-4582-a1d7-b9a0f837292f.png">
-            <img height="300em" width="480em" src="https://user-images.githubusercontent.com/85528669/201210615-8d29c96f-bd3b-4799-9cee-ddfa6abb2bc0.png">
-            <h5>This System use just HTML, CSS, JS, PHP, SQL and Python. I recived the instruction to develop the smallest (but efficient) system as fast as possible. The SIRGA system has 4 main features: Create, Modify, Consult and Download documents. Consult feature can generate simple and complex reports from a specific search (ex: all documents emitted in october 2022) and has links for Download each one of them. Create and Modify store just the variants documents informations, keeping default information to Download feature. Finally the Download feature use Python with python-docx and openpyxl libraries, putting a specific database information in the document just when the user require it (and delete it after a while), taking less space in network memory this way.</h5>
-        </div>
     </div>
 </i>
 </div>
