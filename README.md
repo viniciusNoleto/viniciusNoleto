@@ -2,9 +2,9 @@
 
 <div>
 <i>
-    <h1><img src="https://user-images.githubusercontent.com/85528669/173167127-481cdef6-d413-4d85-8bb2-562a50be9865.gif" alt="cat-programming-gif" width="40px" height="40px" align="center"> Sup Devs!? </i>👋🏽<i> I'm Vinícius Nolêto
+    <h1>Sup Devs!? </i>👋🏽<i> I'm Vinícius Nolêto
     </h1>
-    <h3><img src="https://user-images.githubusercontent.com/85528669/173168357-24045914-100c-4cac-bb76-1c709a3e1b7e.gif" alt="mario-dancing" width="30px" height="30px"> Aboute Me:</h3>
+    <h3><img src="https://user-images.githubusercontent.com/85528669/173167127-481cdef6-d413-4d85-8bb2-562a50be9865.gif" alt="cat-programming-gif" width="30px" height="30px" align="center">  Aboute Me:</h3>
     <div>
         - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"> <b>I'm From:</b> Brazil, Roraima, Boa Vista;</p>
         - </i>📚<i> <b>Pursuing Computer Science at:</b> <a href="https://ufrr.br/">Federal University of Roraima</a>;</p>
