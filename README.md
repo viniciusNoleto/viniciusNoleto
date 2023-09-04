@@ -19,7 +19,6 @@
     <h3></i>📫<i> Contacts:</h3>
     <div>
         <div>
-            <a href="https://discord.gg/EZecnWDnR8" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="viniciusNoleto's Discord"/></a>
             <a href="https://www.instagram.com/noletovini/" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viniciusNoleto's Instagram"/></a>
             <a href="https://www.linkedin.com/in/vin%C3%ADcius-nol%C3%AAto-de-ara%C3%BAjo/" target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusNoleto's LinkedIn"/></a>
         </div>
