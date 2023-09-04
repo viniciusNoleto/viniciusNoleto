@@ -14,7 +14,7 @@
     <h3></i>💻<i> Job History:</h3>
     <div>
         - <b>Institute of Land and Colonization of Roraima (ITERAIMA)</b>: Head of Document Analysis and Correction Division; <b></i>[Actual Job]<i></b></p>
-        - <b>Federal University of Roraima (UFRR)</b>: Urban Mobility Researcher; <b></i>[Researching Now]<i></b></p>
+        - <b>Federal University of Roraima (UFRR)</b>: Urban Mobility Researcher;</p>
     </div>
     <h3></i>📫<i> Contacts:</h3>
     <div>
