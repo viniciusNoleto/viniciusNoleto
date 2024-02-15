@@ -9,7 +9,7 @@
 
 ### 💻 Job History:
 - **Federal University of Roraima, [UFRR](https://ufrr.br/):** Urban Mobility Researcher
-- **Institute of Land and Colonization of Roraima, [ITERAIMA](http://www.iteraima.rr.gov.br/):** Head of Document Analysis and Correction Division
+- **Institute of Land and Colonization of Roraima, [ITERAIMA](http://www.iteraima.rr.gov.br/):** Full Stack Developer
 - **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Trainee Laravel and Vue developer
 - **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Junior III Vue developer, Actual Job
 
