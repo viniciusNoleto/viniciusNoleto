@@ -3,6 +3,7 @@
 ### <img src="https://user-images.githubusercontent.com/85528669/173167127-481cdef6-d413-4d85-8bb2-562a50be9865.gif" alt="cat-programming-gif" width="30px" height="30px" align="center"></img> About Me:
 - <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"></img> **I'm From:** Boa Vista City, State of Roraima, Brazil
 - 📚 **Pursuing Computer Science at:** [Federal University of Roraima](https://ufrr.br/)
+- 📚 **Pursuing Systems Analysis and Development at:** [Estácio](https://estacio.br/)
 - <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"></img> **Currently Listen:** *Best-Podcast:* [PeeWeeCast](https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d) | *Best-Album:* [Intocável - Borges](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g)
 
 <br/>
@@ -24,25 +25,35 @@
 
 ## <img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"></img> Knowledge
 
-### Studying Now
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></img>
+### Studying
+<img src="https://api.iconify.design/skill-icons:jest.svg" alt="" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:vitest-dark.svg" alt="vitest" height="40"/></img>
+
 ### High Skill
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></img>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:html.svg" alt="html" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:css.svg" alt="css" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:javascript.svg" alt="js" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:typescript.svg" alt="ts" height="40"/></img>
+<br/>
+<img src="https://api.iconify.design/skill-icons:vuejs-light.svg" alt="vuejs" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:pinia-dark.svg" alt="pinia" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg" alt="nuxt" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" alt="tailwindcss" height="40"/></img>
+
 ### Medium Skill
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:docker.svg" alt="" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:linux-dark.svg" alt="linux" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:git.svg" alt="git" height="40"/></img>
+<br/>
+<img src="https://api.iconify.design/skill-icons:php-dark.svg" alt="php" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:mysql-dark.svg" alt="mysql" height="40"/></img>
+<br/>
+<img src="https://api.iconify.design/skill-icons:figma-dark.svg" alt="Figma" height="40"/></img>
+
 ### Low Skill
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:laravel-dark.svg" alt="laravel" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:graphql-dark.svg" alt="" height="40"/></img>
+<img src="https://api.iconify.design/skill-icons:java-dark.svg" alt="" height="40"/></img>
 
 <br/><br/>
 
