@@ -12,7 +12,8 @@
 - **Federal University of Roraima, [UFRR](https://ufrr.br/):** Urban Mobility Researcher
 - **Institute of Land and Colonization of Roraima, [ITERAIMA](http://www.iteraima.rr.gov.br/):** Full Stack Developer
 - **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Intern Laravel / Vue Developer
-- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Junior III Vue Developer, Actual Job
+- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Junior III Vue Developer
+- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Mid-level I Vue / Nuxt Developer, Actual Job
 
 <br/>
 
