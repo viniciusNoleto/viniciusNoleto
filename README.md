@@ -1,73 +1,63 @@
-# Sup Devs!? 👋🏽 I'm Vinícius Nolêto
+# Hi, I'm Vinícius Nolêto 👋
 
-### <img src="https://user-images.githubusercontent.com/85528669/173167127-481cdef6-d413-4d85-8bb2-562a50be9865.gif" alt="cat-programming-gif" width="30px" height="30px" align="center"></img> About Me:
-- <img src="https://user-images.githubusercontent.com/85528669/173168763-8bae5634-ef49-4836-8b5c-6f2e1476148c.png" alt="brasil-flag" width="20px" height="20px" align="center"></img> **I'm From:** Boa Vista City, State of Roraima, Brazil
-- 📚 **Pursuing Computer Science at:** [Federal University of Roraima](https://ufrr.br/)
-- 📚 **Pursuing Systems Analysis and Development at:** [Estácio](https://estacio.br/)
-- <img src="https://user-images.githubusercontent.com/85528669/173170780-3cb4f88b-08f3-44a7-b874-16664bcb7ceb.gif" alt="beers" width="20px" height="20px" align="center"></img> **Currently Listen:** *Best-Podcast:* [PeeWeeCast](https://open.spotify.com/show/7eJGd9HVEPmrg7RqSpEhuZ?si=c9d8244fcfa34a3d) | *Best-Album:* [Intocável - Borges](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw?si=WIfASI3uTzepNCVduySc_g)
+**Full Stack Developer** · Vue / Nuxt · Next.js / React · Laravel · TypeScript · PostgreSQL
+Boa Vista, Roraima, Brazil · Portuguese (native) · English
 
-<br/>
+Coding since 2018 and working professionally as a developer since 2022. I build web products end to end: typed frontends in **Nuxt** and **Next.js**, REST APIs in **Laravel** and Nitro/Node, **PostgreSQL** schemas, and the Docker setup that ships them. My day job is Vue/Nuxt at [A&3 Tecnologia](https://ae3tecnologia.com.br/), where I grew from intern to mid-level developer. My public repos are where I go deeper on the full stack: real-time updates with Server-Sent Events, signed webhooks with retries, cookie-based auth with token rotation, and unit + E2E test suites.
 
-### 💻 Job History:
-- **Federal University of Roraima, [UFRR](https://ufrr.br/):** Urban Mobility Researcher
-- **Institute of Land and Colonization of Roraima, [ITERAIMA](http://www.iteraima.rr.gov.br/):** Full Stack Developer
-- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Intern Laravel / Vue Developer
-- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Junior III Vue Developer
-- **[A&3 Tecnologia](https://ae3tecnologia.com.br/):** Mid-level I Vue / Nuxt Developer, Actual Job
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-nol%C3%AAto-de-ara%C3%BAjo/)
+[![Email](https://img.shields.io/badge/noleto.vinicius.a@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:noleto.vinicius.a@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@noleto.vinicius.a)
 
-<br/>
+---
 
-### 📫 Contacts:
-#### [<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viniciusNoleto's Instagram"></img>](https://www.instagram.com/noletovini/) _noletovini_
-#### [<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusNoleto's LinkedIn"></img>](https://www.linkedin.com/in/vin%C3%ADcius-nol%C3%AAto-de-ara%C3%BAjo/) _Vinícius Nolêto de Araújo_
-#### <a href="mailto: noleto.vinicius.a@gmail.com"><img align="center" height="30" width="40" src="https://github.com/viniciusNoleto/viniciusNoleto/assets/85528669/85103727-51ba-4c9a-b459-10cb3e0a08e8"></img></a> _noleto.vinicius.a@gmail.com_
+## Featured projects
 
-<br/><br/>
+| Project | What it is | Stack |
+|---|---|---|
+| **[Mocked Payment Gateway](https://github.com/viniciusNoleto/mocked-payment-gateway)** | A fake **Pix** provider for testing payment integrations: HMAC-signed webhooks with retries, plus a live dashboard over SSE. | Nuxt 4 (Nitro) · PostgreSQL · Drizzle · Vitest · Playwright |
+| **[White Label Stock](https://github.com/viniciusNoleto/white-label-stock-api)** ([API](https://github.com/viniciusNoleto/white-label-stock-api) + [Web](https://github.com/viniciusNoleto/white-label-stock-web)) | An inventory system whose API is built as Controller → FormRequest → DTO → Action. It uses httpOnly cookie sessions with refresh-token rotation and locks rows while consuming stock. | **Laravel 13** · PHP 8.3+ · **Pest** · PostgreSQL · Angular SSR |
+| **[Storyweaver](https://github.com/viniciusNoleto/storyweaver)** | A tabletop RPG manager with two screens. The game master sees every number, and the shared TV gets real-time updates over SSE. | **Next.js 16** · React 19 · PostgreSQL · Drizzle · Playwright |
+| **[White Label Utility List](https://github.com/viniciusNoleto/white-label-utility-list)** | Admins define the data model at runtime, and the app generates the forms, filters and `.xlsx` export. Includes role-based access. | **Next.js 16** · TanStack Query · Zustand · Drizzle · Vitest |
 
-## <img src="https://user-images.githubusercontent.com/85528669/173171956-42614631-70db-47e2-bc7a-7428bcfe7692.gif" alt="mario-dancing" width="30px" height="35px" align="center"></img> Knowledge
+### Developer tools
 
-### Studying
-<img src="https://api.iconify.design/skill-icons:jest.svg" alt="" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:vitest-dark.svg" alt="vitest" height="40"/></img>
+- **[swagger-to-md](https://github.com/viniciusNoleto/swagger-to-md)**: a Claude Code skill that turns any Swagger 2.0 / OpenAPI 3.x URL into one Markdown reference you can commit. *(Python)*
+- **[interviewers-against-you](https://github.com/viniciusNoleto/interviewers-against-you)**: a Claude Code plugin that runs a mock tech interview with a four-person panel and ends with a hiring verdict and a study plan.
 
-### High Skill
-<img src="https://api.iconify.design/skill-icons:html.svg" alt="html" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:css.svg" alt="css" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:javascript.svg" alt="js" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:typescript.svg" alt="ts" height="40"/></img>
-<br/>
-<img src="https://api.iconify.design/skill-icons:vuejs-light.svg" alt="vuejs" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:pinia-dark.svg" alt="pinia" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg" alt="nuxt" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg" alt="tailwindcss" height="40"/></img>
+---
 
-### Medium Skill
-<img src="https://api.iconify.design/skill-icons:docker.svg" alt="" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:linux-dark.svg" alt="linux" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:git.svg" alt="git" height="40"/></img>
-<br/>
-<img src="https://api.iconify.design/skill-icons:php-dark.svg" alt="php" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:mysql-dark.svg" alt="mysql" height="40"/></img>
-<br/>
-<img src="https://api.iconify.design/skill-icons:figma-dark.svg" alt="Figma" height="40"/></img>
+## Tech stack
 
-### Low Skill
-<img src="https://api.iconify.design/skill-icons:laravel-dark.svg" alt="laravel" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:graphql-dark.svg" alt="" height="40"/></img>
-<img src="https://api.iconify.design/skill-icons:java-dark.svg" alt="" height="40"/></img>
+| | |
+|---|---|
+| **Frontend** | ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-555555) ![SSE](https://img.shields.io/badge/Server--Sent_Events-555555) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?logo=drizzle&logoColor=black) ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?logo=laravel&logoColor=white) |
+| **Testing** | ![Pest](https://img.shields.io/badge/Pest-F472B6?logo=pest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) |
+| **DevOps & tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
 
-<br/><br/>
+---
 
-## <img src="https://user-images.githubusercontent.com/85528669/173173690-c56aaf9f-72f2-49e6-88f3-cc766cc5665e.png" alt="mario-dancing" width="30px" height="30px" align="center"></img> Main Projects
+## Experience
 
-### [Space Engineer](https://tic80.com/play?cart=1911) [(finished)](https://github.com/viniciusNoleto/Space-Engeneer-Tic-80-JS)
-Short game inspired by old school 16 bits space games and Tetris (the first game I made, btw)
-<img height="220em" width="600em" src="https://user-images.githubusercontent.com/85528669/173397311-31fbf258-ce58-4cff-9e47-aceacda3c71d.gif"></img>
-<img height="220em" width="600em" src="https://user-images.githubusercontent.com/85528669/173397538-9bc127fb-331f-4886-b035-959e9996858f.gif"></img><br/>
-**In this game you have 5 space-ships you can use (green, blue, red, yellow and purple) and each type has your own powers. Each space-ship is useful for different moments in the game and you can change it any moment. To win (or just don't die) you need to bring all blocks that cames from the right side of the screen to their flagged places at the left side of the screen. It's a funny game with dialogues in PT-BR and has no HUD, so your "life" is how stressed your boss are, so if you pissed him off you will get fired!**
-###### Obs: I want to develop three bosses for this game next time I have some time to dedicate for this project.
+- **[A&3 Tecnologia](https://ae3tecnologia.com.br/)**: Laravel / Vue intern → Junior III Vue developer → **Mid-level I Vue / Nuxt developer** *(current)*
+- **[ITERAIMA](http://www.iteraima.rr.gov.br/)**, Roraima's state land and colonization institute: Full Stack Developer
+- **[Federal University of Roraima (UFRR)](https://ufrr.br/)**: Urban Mobility Researcher
 
-# <img src="https://user-images.githubusercontent.com/85528669/173398383-ad73c2a9-ad89-413e-a69b-1371d928af0f.gif" alt="mario-dancing" width="30px" height="30px" align="bottom"></img> Statistics
-<img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusNoleto&icons=true&theme=algolia&include_all_commits=true&count_private=true"></img>
-<img height="135em" align="top" src="https://user-images.githubusercontent.com/85528669/173173706-b31908e4-d779-4705-a777-4cf6657a5212.gif"></img>
-<img height="140em" width="320em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusNoleto&layout=compact&langs_count=8&theme=algolia"></img>
+## Education
+
+- Computer Science, [Federal University of Roraima (UFRR)](https://ufrr.br/)
+- Systems Analysis and Development, [Estácio](https://estacio.br/)
+
+## Writing
+
+- [*Uma proposta para uma arquitetura BFF (Backend for Front-End) mais célere para aplicações Vue.js robustas*](https://medium.com/@noleto.vinicius.a/uma-proposta-para-uma-arquitetura-bff-backend-for-front-end-mais-c%C3%A9lere-para-aplica%C3%A7%C3%B5es-vue-js-cf9b29f987ec) (Medium, PT-BR)
+
+<details>
+<summary>Just for fun</summary>
+
+- **[Space Engineer](https://tic80.com/play?cart=1911)** ([source](https://github.com/viniciusNoleto/Space_Engeneer-Tic-80-JS)): my first game, made in JavaScript on TIC-80. A 16-bit-style space game mixed with Tetris, with five ships that each have their own power.
+- **[F\*ck This Image](https://github.com/viniciusNoleto/fuck-this-image)**: a static site that wrecks image and GIF quality in the browser, because high-resolution memes aren't funny.
+
+</details>
