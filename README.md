@@ -1,9 +1,9 @@
 # Hi, I'm Vinícius Nolêto 👋
 
-**Full Stack Developer** · Vue / Nuxt · Next.js / React · Laravel · TypeScript · PostgreSQL
-Boa Vista, Roraima, Brazil · Portuguese (native) · English
+**Full Stack Developer** · Vue / Nuxt · Next.js / React · Laravel · TypeScript · PostgreSQL<br/>
+Boa Vista, Roraima, Brazil · Portuguese (native) · English (intermediate)
 
-Coding since 2018 and working professionally as a developer since 2022. I build web products end to end: typed frontends in **Nuxt** and **Next.js**, REST APIs in **Laravel** and Nitro/Node, **PostgreSQL** schemas, and the Docker setup that ships them. My day job is Vue/Nuxt at [A&3 Tecnologia](https://ae3tecnologia.com.br/), where I grew from intern to mid-level developer. My public repos are where I go deeper on the full stack: real-time updates with Server-Sent Events, signed webhooks with retries, cookie-based auth with token rotation, and unit + E2E test suites.
+Coding since 2018 and working professionally as a developer since 2022. I build web products end to end: typed frontends in **Nuxt** and **Next.js**, REST APIs in **Laravel** and Nitro/Node, **PostgreSQL** schemas, and the Docker setup that ships them. I'm currently a mid-level developer at [Mercado Eletrônico](https://institucional.me.com.br/). Before that, I grew from intern to mid-level Vue/Nuxt developer at [A&3 Tecnologia](https://ae3tecnologia.com.br/). My public repos are where I go deeper on the full stack: real-time updates with Server-Sent Events, signed webhooks with retries, cookie-based auth with token rotation, and unit + E2E test suites.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-nol%C3%AAto-de-ara%C3%BAjo/)
 [![Email](https://img.shields.io/badge/noleto.vinicius.a@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:noleto.vinicius.a@gmail.com)
@@ -22,7 +22,6 @@ Coding since 2018 and working professionally as a developer since 2022. I build 
 
 ### Developer tools
 
-- **[swagger-to-md](https://github.com/viniciusNoleto/swagger-to-md)**: a Claude Code skill that turns any Swagger 2.0 / OpenAPI 3.x URL into one Markdown reference you can commit. *(Python)*
 - **[interviewers-against-you](https://github.com/viniciusNoleto/interviewers-against-you)**: a Claude Code plugin that runs a mock tech interview with a four-person panel and ends with a hiring verdict and a study plan.
 
 ---
@@ -41,14 +40,14 @@ Coding since 2018 and working professionally as a developer since 2022. I build 
 
 ## Experience
 
-- **[A&3 Tecnologia](https://ae3tecnologia.com.br/)**: Laravel / Vue intern → Junior III Vue developer → **Mid-level I Vue / Nuxt developer** *(current)*
+- **[Mercado Eletrônico](https://institucional.me.com.br/)**: **Mid-level Developer** *(current)*
+- **[A&3 Tecnologia](https://ae3tecnologia.com.br/)**: Laravel / Vue intern → Junior III Vue developer → Mid-level I Vue / Nuxt developer
 - **[ITERAIMA](http://www.iteraima.rr.gov.br/)**, Roraima's state land and colonization institute: Full Stack Developer
-- **[Federal University of Roraima (UFRR)](https://ufrr.br/)**: Urban Mobility Researcher
 
 ## Education
 
-- Computer Science, [Federal University of Roraima (UFRR)](https://ufrr.br/)
-- Systems Analysis and Development, [Estácio](https://estacio.br/)
+- Software Engineering, [Estácio](https://estacio.br/) *(in progress)*
+- Systems Analysis and Development, [Estácio](https://estacio.br/) *(completed)*
 
 ## Writing
 
@@ -58,6 +57,5 @@ Coding since 2018 and working professionally as a developer since 2022. I build 
 <summary>Just for fun</summary>
 
 - **[Space Engineer](https://tic80.com/play?cart=1911)** ([source](https://github.com/viniciusNoleto/Space_Engeneer-Tic-80-JS)): my first game, made in JavaScript on TIC-80. A 16-bit-style space game mixed with Tetris, with five ships that each have their own power.
-- **[F\*ck This Image](https://github.com/viniciusNoleto/fuck-this-image)**: a static site that wrecks image and GIF quality in the browser, because high-resolution memes aren't funny.
 
 </details>
